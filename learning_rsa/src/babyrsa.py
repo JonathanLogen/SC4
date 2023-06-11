@@ -3,7 +3,7 @@ from time import sleep
 from sympy import factorint
 from sympy.ntheory.primetest import isprime
 
-
+ 
 def print_header():
     prompt = '''I really like loops!
 Repeatedly multiplying a number mod n makes loops!
